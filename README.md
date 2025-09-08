@@ -1,6 +1,7 @@
 #Google Play App Analytics: Quantifying Business Impact
 
 Project Summary
+
 This project performs a comprehensive, data-driven analysis of the Google Play Store app ecosystem. The goal is to uncover key insights into user behavior and app performance, ultimately providing actionable recommendations to app developers and product teams. The analysis was conducted from end-to-end, from raw data assessment to business-focused conclusions using both Python and SQL.
 
 Problem Statement
